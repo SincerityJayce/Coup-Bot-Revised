@@ -1,0 +1,26 @@
+{
+  "files": {
+    "library.js": [
+      {
+        "id": "2753d1bc-2f58-4428-a142-415a86929151",
+        "line": 19,
+        "version": 125,
+        "index": 381
+      }
+    ],
+    "startOfTurn.js": [
+      {
+        "id": "fb9c376d-5390-44ac-a082-a1428b08e364",
+        "line": 30,
+        "version": 714,
+        "index": 857
+      },
+      {
+        "id": "9c15c51a-b13f-4e66-9759-c120ed2d457b",
+        "line": 66,
+        "version": 714,
+        "index": 1578
+      }
+    ]
+  }
+}
